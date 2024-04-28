@@ -3,6 +3,6 @@ This repository encompasses the environmental concentrations of chemicals of eme
 
 Citations:
 
-Dataset only DOI: https://zenodo.org/badge/793096005.svg
+Dataset only DOI: [![DOI](https://zenodo.org/badge/793096005.svg)](https://zenodo.org/doi/10.5281/zenodo.11080739)
 
 Data descriptors (methods and data description):
